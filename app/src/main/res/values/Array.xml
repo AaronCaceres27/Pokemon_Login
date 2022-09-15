@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="generaciones">
+       <item>Pokemones de primera generacion</item>
+       <item>Pokemones de segunda generacion</item>
+       <item>Pokemones de tercera generacion</item>
+       <item>Pokemones de cuarta generacion</item>
+       <item>Pokemones de quinta generacion</item>
+       <item>Pokemones de sexta generacion</item>
+       <item>Pokemones de septima generacion</item>
+   </string-array>
+</resources>
